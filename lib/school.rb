@@ -1,5 +1,5 @@
 class School
+  
+  roster = []
+  
 end
-
-school = School.new
-school.roster
